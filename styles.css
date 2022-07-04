@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: lightgreen;
+}
+
+p {
+    color: white;
+}
+
+.hide-text {
+    display: none;
+}
+
+.hide-text.show {
+    display: block;
+}
